@@ -3,7 +3,7 @@
 ////////////////////////////////////////
 
 MVP:
-* I want to be able to record student data that includes their name, their class, and subject.
+* I want to be able to record student data that includes their name, their achievement_score, and subject.
 * I want to be able to record assignment data that includes due dates, scores or grades, subjects, and teacher's who assigned it.
 * I want this site to feature an attractive UI with presentable CSS features in order to allow for a nice user experience.
 
